@@ -1,1 +1,1 @@
-# first-repo
+# This is my first repo that I have set up in the HTML course.
